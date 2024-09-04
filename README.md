@@ -1,29 +1,22 @@
 # portfolio_r
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a portfolio website built with Vue 3 and Vite. It showcases repositories that the user contributes to, displaying various details such as the repository name, description, languages used, and the last push date.
+
+## Features
+
+- Display a list of repositories with details
+- Show language usage in a pie chart
+- Responsive design for small screens
+- Dark mode support
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
 
 ## Project Setup
 
+### Install dependencies
+
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
